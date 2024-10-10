@@ -3,9 +3,7 @@
 ---
 
 <aside>
-<img src="/icons/groups_gray.svg" alt="/icons/groups_gray.svg" width="40px" />
-
-TEAM
+🧑 TEAM
 
 </aside>
 
